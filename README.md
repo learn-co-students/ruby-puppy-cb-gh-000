@@ -10,7 +10,7 @@
 The government has decided to start tracking every new puppy that is born, just like we track every new child who is born with a birth certificate. Because you're such a notoriously skilled programmer, you've been hired by the newly minted United States Department of Canines to write a program that will do just that. 
 
 You need to write a program that stores each new puppy that is born. You will write a `Dog` class that initializes with a name and also stores each new instance of `Dog` that is instantiated. 
-
+y
 ## Instructions
 
 Code your solution in `lib/dog.rb`
